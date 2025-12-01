@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+    h2{
+        display: inline;
+    }</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <center><h1>Hari Sudhan T</h1>
+    <h2 >harisudhan1007@gmail.com</h2>
+    <h2>||</h2>
+    <h2 >tirupur</h2>
+    <p> pursuing btech AI&DS ,looking for a full stack developer </p>
+    </center>
+    <hr>
+</head>
+<body>
+    <p>There are several compelling reasons to learn HTML (HyperText Markup Language). Fundamentally, HTML is the indispensable backbone of the World Wide Web; without it, the internet as we know it simply would not exist. Every website you visit, from social media platforms like Facebook to e-commerce giants like Amazon, is built upon HTML's structure. Learning HTML means acquiring the foundational literacy required to interact with, understand, and build digital experiences. It provides the essential structure—headings, paragraphs, links, and images—onto which all other web technologies, like CSS and JavaScript, are layered, making it the non-negotiable first step in any web development journey.</p>
+    <p>Furthermore, HTML is an incredibly accessible entry point into the world of programming and technology. Unlike complex back-end languages that require setting up specific environments or understanding abstract logic immediately, HTML can be learned using a simple text editor and any web browser. Its syntax is intuitive and human-readable, allowing beginners to see immediate results as soon as they save a file and refresh their browser. This rapid feedback loop makes learning HTML highly motivating and provides a gentle introduction to concepts like tags, elements, and attributes—core ideas that transfer seamlessly to other coding languages you might choose to learn later.</p>
+    <p>Finally, learning HTML offers a significant boost to a variety of professional and personal skills. In today's digital-first job market, understanding basic web structure is an asset even outside of dedicated developer roles. Marketers can better format email campaigns, content writers can format their own articles for a CMS (Content Management System), and small business owners can manage basic updates to their own websites, saving time and money. HTML provides a practical skillset that empowers users to communicate information effectively online, making it a highly versatile and valuable skill in almost any modern career path.</p>
+</body>
+</html>
