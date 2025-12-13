@@ -1,0 +1,23 @@
+.inl{
+    display: inline;
+}
+.inlb{
+    display: inline-block;
+
+}
+.blo{
+    display: block;
+}
+.dishid{
+    display: none;
+
+}
+.vishid{
+    visibility: hidden;
+}
+.bllin{
+    display: inline;
+}
+.linbl{
+    display: block;
+}
