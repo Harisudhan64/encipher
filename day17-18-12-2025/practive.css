@@ -1,0 +1,31 @@
+.descom p{
+    color:red
+}
+
+.chicom >p{
+    color: blue;
+}
+
+.sibilings + p{
+    color : green;
+}
+.subcom ~ p{
+    color: red;
+}
+
+input:hover{
+   background-color: red;
+  
+}
+h1.h:hover{
+    font-size: 100px;
+    color: green;
+}
+h2::first-letter{
+    font-size:200px;
+    color:red;
+}
+img:hover{
+    opacity: 0.5;
+}
+
