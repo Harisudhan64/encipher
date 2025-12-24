@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito";
+}
+nav{
+    display: flex;
+    padding: 25px;
+    align-items: center;
+    background-color: #fafac8;
+}
+nav img{
+    padding-left: 50px;
+}
+nav ul li{
+    display: inline-block;
+    padding-right: 25px;   
+}
+nav ul li:hover{
+    color: darkgoldenrod;
+}
+nav ul{
+    flex: 1;
+    text-align: right;
+    padding: 10px;
+    
+}
+nav ul li img{
+    width: 30px;
+    padding-left: 0;
+}
+.top1{
+    display: flex;
+    padding: 100px;
+    background-color: #fafac8;
+}
+.right{
+    width: 50%;
+    padding-left:20px ;
+}
+.left{
+    width: 50%;
+}
+.left img{
+    width: 500px;
+    margin-top: -60px;
+    padding: 20px;
+}
+.right h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding: 3px;
+}
+.right p{
+    padding-top: 20px;
+    
+}
+.right button{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(239, 253, 106);
+    border: 1px solid transparent;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.right button:hover{
+    background-color: rgb(227, 252, 6);
+    transform: scale(110%);
+    
+}
+.Products1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    margin: 100px 150px 100px 150px;
+}
+.Products1 img{
+    width: 250px;
+    box-shadow: 0 8px 10px rgb(68, 68, 68) ;
+}
+.feature{
+    text-align: center;
+    font-size: x-large  ;
+}
+
+.feature .line{
+    width: 80px;
+    height: 6px;
+    background-color: red;
+    margin: 10px auto 100px;
+}
+.Products2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-evenly;
+    margin: 100px 100px 100px 100px;
+}
+.Products2 img{
+    width: 250px;
+    box-shadow: 0 4px 8px rgb(128, 128, 128) ;
+}
+.Products2 h1{
+    font-size: medium;
+    margin-top: 10px;
+    opacity: 0.8;
+    
+}
+.ratings{
+    color: red;
+}
+.mi{
+    background-color:#fafac8; ;
+    display: flex;
+    padding-left: 20%;
+    padding-right: 15%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.mi img{
+    width: 400px;
+}
+.mi h1{
+    font-size: 50px;
+    padding: 15px;
+     padding-top: 0;
+}
+.mi p{
+    padding: 15px;
+    padding-top: 0;
+
+}
+.mi button{
+    margin: 15px;
+    padding: 10px;
+    border-radius: 50px;
+    border: 1px solid transparent;
+    background-color: rgb(239, 253, 106);
+}
+.mi button:hover{
+    background-color: rgb(227, 252, 6);
+    transform: scale(110%);
+    
+}
+.Products2 img:hover{
+    transform: scale(110%);
+}
+.Products1 img:hover{
+    transform: scale(110%);
+}
+.cont{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    margin: 100px 100px;
+}
+.con img{
+    width: 100px;
+    border-radius: 50px;
+    padding: 5px;
+}
+.con{
+    width: 300px;
+     border: 1px solid transparent;
+     text-align: center;
+     padding: 20px;
+     box-shadow: 0 4px 8px grey;
+}
+.con >i{
+    font-size: 50px;
+    color: red;
+}
+.con .ratings{
+    padding: 5px;
+}
+.con h2{
+    opacity: 0.8;
+}
+.brand{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.brand img{
+    width: 60%;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.footer .top{
+    display: flex;
+}
+.footer h1{
+    font-size: medium;
+}
+.footer img{
+    width: 30%;
+}
+.footer .fleximg{
+    display: flex;
+}
+.appstore{
+    width: 450px;
+    padding: 30px 0;
+    margin-left: 100px;
+}
+.appstore p{
+    padding:10px 0;
+}
+.company{
+    width: 400px;
+    margin-left: 70px;
+    padding: 30px 0;
+}
+.link{
+     width: 350px;
+    padding: 30px 0;
+    margin-left: 100px;  
+}
+.follow{
+     width: 350px;
+    padding: 30px 0;
+    
+}
+.link h1{
+    font-size: medium;
+}
+.follow h1{
+    font-size: medium;
+}
+.lin{
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0;
+    margin-top: 1px;
+    width: 90%;
+    margin: 20px 5% 20px;
+        
+}
+.bottom .t{
+    text-align: center;
+    padding-bottom: 30px;
+}
